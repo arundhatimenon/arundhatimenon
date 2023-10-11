@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-## Proud to be a VITian
+## About Me
+My name is Arundhati Menon. I am a hard-working and confident individual and believe in collaborating with teammates to complete tasks by leading them through an example. I am patient and punctual and conclude all assignments before the allotted deadline. As a former NCC cadet, I have a natural leading ability and confidence that set me apart from the rest of my colleagues. My penmanship is immensely refined and cultivated as I have written numerous poems, which have helped polish my vocabulary and oratory skills.
+## My Education
+- Alumna of St.Joseph's Convent School, Idgah Hills, Bhopal
+- Currently pursuing my B.Tech degree in Computer Science and Engineering with Specialization in Cyber Security and Digital Forensics from Vellore Institue of Technology, Bhopal
+
 
 <!--
 **arundhatimenon/arundhatimenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
