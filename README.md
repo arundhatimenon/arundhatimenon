@@ -1,6 +1,7 @@
-### Hi there 👋
+# My Profile 👋
+### Hello there!😁
 
-## About Me
+## About Me👩🏽
 My name is Arundhati Menon. I am a hard-working and confident individual and believe in collaborating with teammates to complete tasks by leading them through an example. I am patient and punctual and conclude all assignments before the allotted deadline. As a former NCC cadet, I have a natural leading ability and confidence that set me apart from the rest of my colleagues. My penmanship is immensely refined and cultivated as I have written numerous poems, which have helped polish my vocabulary and oratory skills.
 ## My Education📖
 - Alumna of St.Joseph's Convent School, Idgah Hills, Bhopal
