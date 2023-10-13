@@ -6,6 +6,9 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
 ## My Education📖
 - Alumna of St.Joseph's Convent School, Idgah Hills, Bhopal
 - Currently pursuing my B.Tech degree in Computer Science and Engineering with Specialization in Cyber Security and Digital Forensics from Vellore Institue of Technology, Bhopal
+## Hobbies
+- Dancer
+- Poet
 
 
 <!--
