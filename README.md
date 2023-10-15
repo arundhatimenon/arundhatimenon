@@ -10,6 +10,9 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
 - Java
 - HTML
 - MySQL
+
+## Certifications and courses
+-
 ## Hobbies
 - Dancer
 - Poet
