@@ -10,14 +10,19 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
 - Java
 - HTML
 - MySQL
+- Flutter 
 
 ## Certifications and courses
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals, Jun 23
-- Introduction to Cybersecurity, CISCO, Apr 23 
+- Introduction to Cybersecurity, CISCO, Apr 23
+- Pragmatic Approach to Cybersecurity, NASSCOM FutureSkills Prime, Feb 23
+- Accredited professional certification, ISO/IEC 27001 INFORMATION SECURITY ASSOCIATE, SKILLFRONT, Aug 22
+- Machine Learning to Deep Learning: A Journey for Remote Sensing Data Classification, ISRO, Jul 22
 
 ## Hobbies
 - Dancer
 - Poet
+- Avid reader
 
 
 <!--
