@@ -10,7 +10,8 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
 - Java
 - HTML
 - MySQL
-- Flutter 
+- Flutter
+- Firebase
 
 ## Certifications and courses
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals, Jun 23
