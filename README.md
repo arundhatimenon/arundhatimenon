@@ -15,6 +15,9 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
 - Dart
 
 ## Technical Projects
+1.  App to rescue and rehabilitate stray animals through analysis of public perception
+   - Description: To develop a community-centred app to help stray animals in a locality find proper nourishment and care from the people of the society.
+   - 
 
 ## Certifications and courses
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals, Jun 23
