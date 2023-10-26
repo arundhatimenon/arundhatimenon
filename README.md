@@ -22,7 +22,8 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
     - Role: App Developer
 2. YouChat- A Community-based messaging application for Online Educators
    - Description: Conversational technology for online educators to connect with their community of pupils and learners
-   - Technology: Flutter, Firebase, Dart  
+   - Technology: Flutter, Firebase, Dart
+   - Team Project: 1 member 
 
 ## Certifications and courses
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals, Jun 23
