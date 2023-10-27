@@ -24,7 +24,8 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
    - Description: Conversational technology for online educators to connect with their community of pupils and learners
    - Technology: Flutter, Firebase, Dart
    - Team Project: 1 member
-   - Role: App developer 
+   - Role: App developer
+3. Comparative analysis of Contemporary Ransomware
 
 ## Certifications and courses
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals, Jun 23
