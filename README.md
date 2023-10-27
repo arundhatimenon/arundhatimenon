@@ -27,7 +27,8 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
    - Role: App developer
 3. Comparative analysis of Contemporary Ransomware
    - Description: In-depth study of modern ransomware and how it differs from its predecessors in damage and attack vectors.
-   - Team Project: 3 members 
+   - Team Project: 3 members
+   - Role: Researcher 
 
 ## Certifications and courses
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals, Jun 23
