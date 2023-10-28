@@ -14,7 +14,7 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
 - Firebase
 - Dart
 
-## Technical Projects
+## Technical Projects and Research
 1.  App to rescue and rehabilitate stray animals through analysis of public perception
     - Description: To develop a community-centred app to help stray animals in a locality find proper nourishment and care from the people of the society.
     - Technology: Flutter, Firebase, Dart
