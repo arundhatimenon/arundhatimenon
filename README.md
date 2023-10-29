@@ -30,7 +30,7 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
    - Team Project: 3 members
    - Role: Researcher 
 
-## Certifications and courses
+## Certifications and courses🎓
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals, Jun 23
 - Introduction to Cybersecurity, CISCO, Apr 23
 - Pragmatic Approach to Cybersecurity, NASSCOM FutureSkills Prime, Feb 23
