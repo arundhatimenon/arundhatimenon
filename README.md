@@ -37,7 +37,7 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
 - Accredited professional certification, ISO/IEC 27001 INFORMATION SECURITY ASSOCIATE, SKILLFRONT, Aug 22
 - Machine Learning to Deep Learning: A Journey for Remote Sensing Data Classification, ISRO, Jul 22
 
-## Hobbies
+## Hobbies💃🏽
 - Dancer
 - Poet
 - Avid reader
