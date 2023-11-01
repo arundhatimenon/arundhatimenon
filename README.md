@@ -29,7 +29,7 @@ My name is Arundhati Menon. I am a hard-working and confident individual and bel
    - Description: In-depth study of modern ransomware and how it differs from its predecessors in damage and attack vectors.
    - Team Project: 3 members
    - Role: Researcher
-4. 
+4. Analytical Study of Email Security Systems
 
 ## Certifications and courses🎓
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals, Jun 23
